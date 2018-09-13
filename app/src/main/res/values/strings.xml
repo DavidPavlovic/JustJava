@@ -1,0 +1,10 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <!-- Text for the toppings CheckBox-->
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="quantity">quantity</string>
+
+    <string name="order_summary_email_subject">Just Java order for <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>
